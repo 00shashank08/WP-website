@@ -7,7 +7,76 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
+/*code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Content{
+  color: red;
+  font-family: 'Roboto';
+  text-align: center;
+}
+
+.navbar
+{
+align-items: center;
+display:flex;
+border-bottom: 2px solid #f2f2f2;
+padding-left: 20px;
+padding-right: 20px;
+}
+
+.navbar a
+{
+  margin-left: 10px;
+  padding: 6px;
+  text-decoration: none;
+  color: rgb(52, 48, 48);
+}
+
+.navbar a:hover
+{
+  color: red;
+  transition: 0.5s;
+}
+
+.navbar h1
+{
+  color: red;
+}
+
+.navbar .links
+{
+  margin-left: auto;
+}
+
+.Home
+{
+  margin-left: 10vw;
+  margin-right: 10vw;
+  margin-top: 5vw;
+  text-align: center;
+}
+
+.blogprev
+{
+  color:black;
+  width:50%;
+  border:2px solid #f2f2f2;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 10px;
+  width:100%;
+}
+
+.blogprev p
+{
+  font-size: 20px;
+  color: red;
+}
+
+.blogprev2 :hover{
+  box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+}
+*/
